@@ -5,7 +5,7 @@ Welcome to my playgroud. Here technology meets movement.
 - 🤓 MSc sports technology student @KTH
 - 🏋️ Crossfit L1 coach
 - 🦿 Passionate about biomechanics, science and movement
-- 🔭 Did some stuff in java, python and MATLAB, currently learning dart
+- 🔭 Did some stuff in java, javascript, python and MATLAB 
 - 🌱 Currently working on app development (android) and playing around with ML models for HAR using IMU sensor data
 - 🧐 Interested in making sports technologies accessible for amateur sports
 - 👯 Looking to collaborate on anything crossfit-related
