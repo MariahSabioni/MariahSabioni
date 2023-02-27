@@ -13,13 +13,13 @@ Welcome to my playgroud. Here technology meets movement.
 
 #### Projects on-going:
 - WODPacer: pace and intensity tracker for CrossFit (python & android): not available publicly
-- BLE intelligent treadmill app (android): https://github.com/gustimorth/Treadmill2.0App
+- (on-hold) BLE intelligent treadmill app (android): [TreadmillApp](https://github.com/gustimorth/Treadmill2.0App)
 
 #### Projects worth sharing:
-- BLE connection of gym equipments and sensors for KTH Integration Lab (html5 | JS): https://github.com/MariahSabioni/SmartGym
-- External IMU data recorder app (android): https://github.com/MariahSabioni/movesense-data-recorder
-- Training diary app (android) for crossfit: https://github.com/jitseve/XFran
-- N-back game app (android): https://github.com/MariahSabioni/nback-game
-- HR-based treadmill speed controller (python): https://github.com/katsikaktus/treadmill
-- Arm angle measurement app (android) with Movesense: https://github.com/MariahSabioni/movesense-arm-angle
-- HAR from IMU data (python): https://github.com/MariahSabioni/HAR-classifier
+- BLE connection of gym equipments and sensors for KTH Integration Lab (html5 | JS): [SmartGym](https://github.com/MariahSabioni/SmartGym)
+- External IMU data recorder app (android): [MovesenseDataRecorder](https://github.com/MariahSabioni/movesense-data-recorder)
+- Training diary app (android) for crossfit: [XFran](https://github.com/jitseve/XFran)
+- N-back game app (android): [NBackGame](https://github.com/MariahSabioni/nback-game)
+- HR-based treadmill speed controller with BLE connection (python): [TreadmillBLEController](https://github.com/katsikaktus/treadmill)
+- Arm angle measurement app (android) with Movesense: [MovesenseArmAngle](https://github.com/MariahSabioni/movesense-arm-angle)
+- HAR from IMU data (python): [HARclassifier](https://github.com/MariahSabioni/HAR-classifier)
