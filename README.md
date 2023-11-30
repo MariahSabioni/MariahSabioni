@@ -2,15 +2,15 @@
 Welcome to my playgroud. Here technology meets movement. 
 
 #### About me:
-- 🤵‍♀️ Co-founder and CSO @[WODPacer](https://wodpacer.com)
 - 🤓 PhD student sports technology @[KTH](https://www.kth.se)
+- 🤵‍♀️ Co-founder @[WODPacer](https://wodpacer.com)
 - 🎓 MSc sports technology, BSc mechanical engineering
 - 🏋️ Crossfit L2 coach
 - 🦿 Into biomechanics and machine learning
 - 🔭 Confident in python, java, javascript, MATLAB (if forced to). 
-- 🌱 Currently researching on wearable sensor fusion for sports. Also building backends in python.
-- 🧐 Interested in making sports technologies accessible for amateur sports
-- 👯 Looking to collaborate on anything crossfit-related
+- 🌱 Currently researching on wearable sensor fusion for sports.
+- 🧐 Interested in making sports technologies accessible for amateur sports.
+- 👯 Looking to collaborate on anything crossfit-related.
 - 📫 Reach me: sabionimah@gmail.com
 
 #### Projects on-going:
