@@ -21,7 +21,5 @@ Welcome to my playgroud. Here technology meets movement.
 - BLE connection of gym equipments and sensors for KTH Integration Lab (html5 | JS): [SmartGym](https://github.com/MariahSabioni/SmartGym)
 - External IMU data recorder app (android java): [MovesenseDataRecorder](https://github.com/MariahSabioni/movesense-data-recorder)
 - Training diary app (android java) for crossfit: [XFran](https://github.com/jitseve/XFran)
-- N-back game app (android java): [NBackGame](https://github.com/MariahSabioni/nback-game)
 - HR-based treadmill speed controller with BLE connection (python): [TreadmillBLEController](https://github.com/katsikaktus/treadmill)
-- Arm angle measurement app with Movesense(android java): [MovesenseArmAngle](https://github.com/MariahSabioni/movesense-arm-angle)
 - HAR from IMU data (python): [HARclassifier](https://github.com/MariahSabioni/HAR-classifier)
